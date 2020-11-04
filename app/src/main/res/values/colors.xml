@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- untuk warna2 referensi kode dari adobe color
+nanti yg background btn1, dll itu mengkikuti referensi warna dari ini menurut
+nama masing-masing warna kayak primary, bgcolor dll-->
+<resources>
+    <color name="colorPrimary">#031CA6</color>
+    <color name="colorPrimaryDark">#03178C</color>
+    <color name="colorPrimaryLight">#505AFC </color>
+    <color name="colorAccent">#E91E63</color>
+    <color name="color1">#5C73F2</color>
+    <color name="color2">#0239CC</color>
+    <color name="bg_color">#E1F6F4</color>
+    <color name="bg_color2">#82B8D9</color>
+    <color name="WhiteText">#ffffff</color>
+</resources>
